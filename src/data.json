@@ -11,6 +11,15 @@
 			],
 			"source": "OSDI"
 		},
+		"Borg, Omega, and Kubernetes": {
+			"url": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf",
+			"year": 2016,
+			"terms": [
+				"software system",
+				"distributed system"
+			],
+			"source": "ACM Queue"
+		},
 		"Dynamo: Amazon’s Highly Available Key-value Store": {
 			"url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
 			"year": 2007,
