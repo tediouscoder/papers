@@ -2,6 +2,15 @@
 	"version": 1,
 	"updated_at": 0,
 	"papers": {
+		"Bigtable: A Distributed Storage System for Structured Data": {
+			"url": "https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf",
+			"year": 2006,
+			"terms": [
+				"distributed system",
+				"storage"
+			],
+			"source": "OSDI"
+		},
 		"Dynamo: Amazon’s Highly Available Key-value Store": {
 			"url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
 			"year": 2007,
