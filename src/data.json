@@ -1,15 +1,28 @@
 {
-  "version": 1,
-  "updated_at": 0,
-  "papers": {
-    "Large-scale cluster management at Google with Borg": {
-      "url": "https://pdos.csail.mit.edu/6.824/papers/borg.pdf",
-      "year": 2015,
-      "terms": [
-        "cluster",
-        "container"
-      ],
-      "source": "EuroSys"
-    }
-  }
+	"version": 1,
+	"updated_at": 0,
+	"papers": {
+		"Dynamo: Amazon’s Highly Available Key-value Store": {
+			"url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+			"year": 2007,
+			"terms": [
+				"algorithms",
+				"management",
+				"measurement",
+				"performance",
+				"design",
+				""
+			],
+			"source": "SOSP"
+		},
+		"Large-scale cluster management at Google with Borg": {
+			"url": "https://pdos.csail.mit.edu/6.824/papers/borg.pdf",
+			"year": 2015,
+			"terms": [
+				"cluster",
+				"container"
+			],
+			"source": "EuroSys"
+		}
+	}
 }
