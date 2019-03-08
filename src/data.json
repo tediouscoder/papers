@@ -50,6 +50,14 @@
 			],
 			"source": "EuroSys"
 		},
+		"Paxos Made Simple": {
+			"url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
+			"year": 2001,
+			"terms": [
+				"distributed system"
+			],
+			"source": "PODC"
+		},
 		"Weighted voting for replicated data": {
 			"url": "http://120.52.51.19/pages.cs.wisc.edu/~remzi/Classes/739/Fall2015/Papers/gifford79.pdf",
 			"year": 1979,
