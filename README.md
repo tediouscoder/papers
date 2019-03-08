@@ -9,4 +9,5 @@
 |[In Search of an Understandable Consensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)|ATC|#Algorithms #Distributed System |
 |[Large-scale cluster management at Google with Borg](https://pdos.csail.mit.edu/6.824/papers/borg.pdf)|EuroSys|#Cluster #Container |
 |[Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)|PODC|#Distributed System |
+|[The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)|TOCS|#Distributed System |
 |[Weighted voting for replicated data](http://120.52.51.19/pages.cs.wisc.edu/~remzi/Classes/739/Fall2015/Papers/gifford79.pdf)|SOSP|#Algorithms |
