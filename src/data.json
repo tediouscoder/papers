@@ -50,6 +50,14 @@
 			],
 			"source": "ATC"
 		},
+		"Large-scale Incremental Processing Using Distributed Transactions and Notifications": {
+			"url": "https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf",
+			"year": 2010,
+			"terms": [
+				"distributed system"
+			],
+			"source": "OSDI"
+		},
 		"Large-scale cluster management at Google with Borg": {
 			"url": "https://pdos.csail.mit.edu/6.824/papers/borg.pdf",
 			"year": 2015,
