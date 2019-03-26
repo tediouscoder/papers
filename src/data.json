@@ -90,6 +90,14 @@
 				"algorithms"
 			],
 			"source": "SOSP"
+		},
+		"WiscKey: Separating Keys from Values in SSD-conscious Storage": {
+			"url": "https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf",
+			"year": 2016,
+			"terms": [
+				"storage"
+			],
+			"source": "FAST"
 		}
 	}
 }
