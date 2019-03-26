@@ -12,3 +12,4 @@
 |[Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)|PODC|#Distributed System |
 |[The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)|TOCS|#Distributed System |
 |[Weighted voting for replicated data](http://120.52.51.19/pages.cs.wisc.edu/~remzi/Classes/739/Fall2015/Papers/gifford79.pdf)|SOSP|#Algorithms |
+|[WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)|FAST|#Storage |
