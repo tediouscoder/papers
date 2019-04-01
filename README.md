@@ -10,6 +10,7 @@
 |[Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)|OSDI|#Distributed System |
 |[Large-scale cluster management at Google with Borg](https://pdos.csail.mit.edu/6.824/papers/borg.pdf)|EuroSys|#Cluster #Container |
 |[Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)|PODC|#Distributed System |
+|[The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)|SOSP|#Distributed System #Storage |
 |[The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)|TOCS|#Distributed System |
 |[Weighted voting for replicated data](http://120.52.51.19/pages.cs.wisc.edu/~remzi/Classes/739/Fall2015/Papers/gifford79.pdf)|SOSP|#Algorithms |
 |[WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)|FAST|#Storage |
